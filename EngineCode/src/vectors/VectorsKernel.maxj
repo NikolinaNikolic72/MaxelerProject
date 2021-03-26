@@ -1,0 +1,40 @@
+package vectors;
+
+import com.maxeler.maxcompiler.v2.kernelcompiler.Kernel;
+import com.maxeler.maxcompiler.v2.kernelcompiler.KernelParameters;
+import com.maxeler.maxcompiler.v2.kernelcompiler.types.base.DFEVar;
+import com.maxeler.maxcompiler.v2.kernelcompiler.types.base.DFEType;
+
+import com.maxeler.maxcompiler.v2.kernelcompiler.types.composite.DFEVector;
+import com.maxeler.maxcompiler.v2.kernelcompiler.types.composite.DFEVectorType;
+
+class VectorsKernel extends Kernel {
+
+	VectorsKernel(KernelParameters parameters, int vectorSize) {
+		super(parameters);
+       
+        DFEType singleType= dfeFloat(8,24);
+		DFEVectorType<DFEVar> vectorType =
+			new DFEVectorType<DFEVar>(singleType, vectorSize);
+
+		// Input
+		DFEVector<DFEVar> inVector1 = io.input("tensor1", vectorType);
+		DFEVector<DFEVar> inVector2 = io.input("tensor2", vectorType);
+
+		DFEVector<DFEVar> outVector =
+			vectorType.newInstance(this);
+
+		for(int i=0; i<Math.sqrt(vectorSize);i++){
+		   for(int j=0; j< Math.sqrt(vectorSize); j++){
+		      DFEVar temp =constant.var(0);
+		        for(int k=0; k< Math.sqrt(vectorSize); k++){
+		          temp += inVector1[i*(int)Math.sqrt(vectorSize)+k]* inVector2[k*(int)Math.sqrt(vectorSize)+j]; 
+		            }
+		        outVector[i*(int)Math.sqrt(vectorSize)+j]<== temp;
+		       
+		   }
+		 }
+	io.output("outVector",outVector,vectorType);
+	
+  }
+}

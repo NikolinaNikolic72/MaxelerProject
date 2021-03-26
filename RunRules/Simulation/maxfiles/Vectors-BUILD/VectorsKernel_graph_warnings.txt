@@ -1,0 +1,315 @@
+*** After kernel graph-pass 'Init Graph' ***
+node "<{HWFloat:8, 24}>" (ID 4) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 6) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 8) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 10) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 12) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 14) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 16) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 18) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 20) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 22) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 24) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 26) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 28) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 30) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 32) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 34) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 39) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 41) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 43) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 45) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 47) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 49) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 51) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 53) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 55) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 57) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 59) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 61) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 63) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 65) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 67) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "<{HWFloat:8, 24}>" (ID 69) has unconnected outputs: [output]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 70) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 71) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 72) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 73) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 74) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 75) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 76) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 77) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 78) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 79) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 80) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 81) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 82) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 83) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 84) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "0.0" (ID 85) has unconnected outputs: [value]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.Constant.var(Constant.java:86)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:37)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+*** After kernel graph-pass 'Init Graph' ***
+node "Input(matA)" (ID 2) has unconnected outputs: [data]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "Input(matB)" (ID 37) has unconnected outputs: [data]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+*** After kernel graph-pass 'RemoveUntypedConstants' ***
+node "Input(matA)" (ID 2) has unconnected outputs: [data]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:28)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
+node "Input(matB)" (ID 37) has unconnected outputs: [data]
+stack trace of node origin follows:
+	com.maxeler.maxcompiler.v2.kernelcompiler.stdlib.core.IO.input(IO.java:606)
+	vectors.VectorsKernel.<init>(VectorsKernel.maxj:29)
+	vectors.VectorsManager.main(VectorsManager.maxj:20)
+	
